@@ -1,0 +1,24 @@
+
+This project contains data and code corresponding to the paper:
+
+"Synthetic Data Generation via the Permutation Paradigm
+with Optional $k$-Anonymity"
+
+1) There is a Jupyter notebook implementing Algorithm 3 and Algorithm 2.
+The code as written is for Algorithm 3. Follow the instructions
+in the comments to adapt it to Algorithm 2.
+
+2) Algorithm 1 was implemented in Excel, except the Cholesky decomposition,
+whose VBA code is given in "code_algorithm_1_and_metrics_vba_and_sas.docx".
+
+3) Also in "code_algorithm_1_and_metrics_vba_and_sas.docx", SAS codes
+for the propensity scores utility measure and the confidentiality
+measure are given. The UM utility metric was computed using Excel,
+as described in the paper.
+
+4) A original.xlsx file is given that contains the original
+data set used in the paper.
+
+5) A synthetic.csv file is given that contains 
+synthetic data obtained by the acceptance-rejection 
+method in Algorithms 1, 2, and 3.
