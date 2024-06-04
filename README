@@ -8,17 +8,21 @@ with Optional $k$-Anonymity"
 The code as written is for Algorithm 3. Follow the instructions
 in the comments to adapt it to Algorithm 2.
 
-2) Algorithm 1 was implemented in Excel, except the Cholesky decomposition,
+2) There is a Jupyter notebook named "synthetic_syhntpop.ipynb"
+that generates the synthtetic versions of Adult and census dataset
+using the synthpop method.
+
+3) Algorithm 1 was implemented in Excel, except the Cholesky decomposition,
 whose VBA code is given in "code_algorithm_1_and_metrics_vba_and_sas.docx".
 
-3) Also in "code_algorithm_1_and_metrics_vba_and_sas.docx", SAS codes
+4) Also in "code_algorithm_1_and_metrics_vba_and_sas.docx", SAS codes
 for the propensity scores utility measure and the confidentiality
 measure are given. The UM utility metric was computed using Excel,
 as described in the paper.
 
-4) A original.xlsx file is given that contains the original
+5) A original.xlsx file is given that contains the original
 data set used in the paper.
 
-5) A synthetic.csv file is given that contains 
+6) A synthetic.csv file is given that contains 
 synthetic data obtained by the acceptance-rejection 
 method in Algorithms 1, 2, and 3.
