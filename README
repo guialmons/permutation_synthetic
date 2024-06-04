@@ -9,8 +9,8 @@ The code as written is for Algorithm 3. Follow the instructions
 in the comments to adapt it to Algorithm 2.
 
 2) There is a Jupyter notebook named "synthetic_syhntpop.ipynb"
-that generates the synthtetic versions of Adult and census dataset
-using the synthpop method.
+with the code to generate the synthtetic versions of Adult and Census
+datasets using the synthpop method.
 
 3) Algorithm 1 was implemented in Excel, except the Cholesky decomposition,
 whose VBA code is given in "code_algorithm_1_and_metrics_vba_and_sas.docx".
