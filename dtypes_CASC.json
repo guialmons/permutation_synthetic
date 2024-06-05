@@ -1,0 +1,13 @@
+{"AFNLWGT": "int",
+ "AGI": "int",
+ "EMCONTRB": "int",
+ "FEDTAX": "int",
+ "PTOTVAL": "int",
+ "STATETAX": "int",
+ "TAXINC": "int",
+ "POTHVAL": "int",
+ "INTVAL": "int",
+ "FICA": "int",
+ "WSALVAL": "int",
+ "ERNVAL": "int"
+}

@@ -1,0 +1,12 @@
+{"age": "int",
+ "workclass": "category",
+ "education": "int",
+ "marital-status": "category",
+ "occupation": "category",
+ "relationship": "category",
+ "race": "category",
+ "sex": "category",
+ "hours-per-week": "int",
+ "native-country": "category",
+ "prediction": "category"
+}
